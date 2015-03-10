@@ -3,3 +3,12 @@ sudo ./SerialPi -run
 ^c to end
 
 cat serialpi.txt
+
+
+git;
+git commit --interactive
+
+if a change made elsewhere, git pull
+
+to put the change onto github, git push
+login with just username (not email address suffix) then github password
