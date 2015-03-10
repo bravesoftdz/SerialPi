@@ -125,7 +125,7 @@ end;
 
 initialization
   RegisterDaemon;
-  AssignFile(Log, 'SerPi.txt');
+  AssignFile(Log, 'SerialPi.txt');
   Rewrite(Log);
 end.
 

@@ -7,7 +7,6 @@
       <Unit0>
         <Filename Value="SerialPi.lpr"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="SerialPi"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="20" Y="5"/>
         <UsageCount Value="56"/>
@@ -17,7 +16,6 @@
         <IsPartOfProject Value="True"/>
         <ComponentName Value="DaemonMapper1"/>
         <HasResources Value="True"/>
-        <UnitName Value="DaemonMapperUnit1"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="3"/>
         <CursorPos X="36" Y="5"/>
@@ -33,7 +31,7 @@
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="103"/>
-        <CursorPos X="8" Y="114"/>
+        <CursorPos X="26" Y="128"/>
         <UsageCount Value="56"/>
       </Unit2>
       <Unit3>
@@ -73,7 +71,6 @@
       </Unit8>
       <Unit9>
         <Filename Value="/usr/local/fpc/trunk/packages/fcl-extra/src/daemonapp.pp"/>
-        <UnitName Value="daemonapp"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="334"/>
         <CursorPos X="16"/>

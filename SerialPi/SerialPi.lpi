@@ -100,14 +100,12 @@
       <Unit0>
         <Filename Value="SerialPi.lpr"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="SerialPi"/>
       </Unit0>
       <Unit1>
         <Filename Value="daemonmapperunit1.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="DaemonMapper1"/>
         <HasResources Value="True"/>
-        <UnitName Value="DaemonMapperUnit1"/>
       </Unit1>
       <Unit2>
         <Filename Value="unit_daemonserpi.pas"/>
