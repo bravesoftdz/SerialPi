@@ -1,0 +1,11 @@
+object DaemonSerPi: TDaemonSerPi
+  OldCreateOrder = False
+  OnStart = DataModuleStart
+  OnStop = DataModuleStop
+  OnShutDown = DataModuleShutDown
+  OnExecute = DataModuleExecute
+  Height = 172
+  HorizontalOffset = 487
+  VerticalOffset = 225
+  Width = 193
+end

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Debug"/>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="SerialPi.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SerialPi"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="20" Y="5"/>
+        <UsageCount Value="56"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="daemonmapperunit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DaemonMapper1"/>
+        <HasResources Value="True"/>
+        <UnitName Value="DaemonMapperUnit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="36" Y="5"/>
+        <UsageCount Value="56"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unit_daemonserpi.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DaemonSerPi"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="unit_daemonSerPi"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="103"/>
+        <CursorPos X="8" Y="114"/>
+        <UsageCount Value="56"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/packages/fcl-base/src/eventlog.pp"/>
+        <TopLine Value="75"/>
+        <CursorPos X="28" Y="75"/>
+        <UsageCount Value="8"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/packages/fcl-base/src/unix/eventlog.inc"/>
+        <TopLine Value="7"/>
+        <CursorPos X="3" Y="101"/>
+        <UsageCount Value="8"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/packages/fcl-extra/src/daemonapp.pp"/>
+        <TopLine Value="44"/>
+        <CursorPos X="15" Y="61"/>
+        <UsageCount Value="8"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/packages/fcl-extra/src/unix/daemonapp.inc"/>
+        <TopLine Value="167"/>
+        <CursorPos X="18" Y="175"/>
+        <UsageCount Value="8"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/rtl/objpas/sysutils/osutilsh.inc"/>
+        <CursorPos X="11" Y="30"/>
+        <UsageCount Value="8"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/rtl/unix/sysutils.pp"/>
+        <TopLine Value="55"/>
+        <CursorPos X="3" Y="1444"/>
+        <UsageCount Value="8"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/local/fpc/trunk/packages/fcl-extra/src/daemonapp.pp"/>
+        <UnitName Value="daemonapp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="334"/>
+        <CursorPos X="16"/>
+        <UsageCount Value="22"/>
+      </Unit9>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+</CONFIG>
