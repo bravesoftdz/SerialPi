@@ -1,0 +1,5 @@
+sudo ./SerialPi -run
+
+^c to end
+
+cat serialpi.txt
