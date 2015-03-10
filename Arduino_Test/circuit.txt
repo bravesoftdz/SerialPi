@@ -1,0 +1,14 @@
+push-button
+potentiometer
+10k
+220k
+led
+
+diagram to come
+
+pot goes to (middle)A0, 5v, GND
+
+220k off to Led and then A9
+
+button linked to D2  
+ 
