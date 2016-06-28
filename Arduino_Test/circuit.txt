@@ -4,7 +4,7 @@ potentiometer
 220k
 led
 
-diagram to come
+diagram still to come
 
 pot goes to (middle)A0, 5v, GND
 
